@@ -5,7 +5,7 @@
 
 $input = $_GET["c"];
 if (!$input){
-   exit("<h3>Channel ID not found <br><br>You Entered Worng ID or Not Entered ID Here</h3><br><h4> Use Correct Format ➸ <code>https://jiotv1.herokuapp.com/?c=</code> <br><br><br> <h4> ➤ Created by <a href=' https://jiotv1.herokuapp.com/?c='>Avi Patil</a></h4> ");
+   exit("<h3>Channel ID not found <br><br>You Entered Worng ID or Not Entered ID Here</h3><br><h4> Use Correct Format ➸ <code>https://jiotv1.herokuapp.com/?c=</code> <br><br><br> <h4> ➤ Created by <a href=' https://jiotv1.herokuapp.com/?c='>Arya</a></h4> ");
   
 }
 $channel_meta = JsonfromURI("https://catalogapi.zee5.com/v1/channel/${input}");
