@@ -10,7 +10,7 @@
 • And Just Copy Channel ID From URL Box <br><br>
 • e.g --> I Use This Link : https://www.zee5.com/channels/details/zee-cinema-hd/0-9-zeecinemahd <br><br>
 • Just Copy ID e.g. <code>0-9-zeecinemahd</code> at end of URL <br><br>
-• After Copy Paste ID after this URL --> <code>https://zee.avipatilpro.repl.co/?c=</code> <br><br>
+• After Copy Paste ID after this URL --> <code>https://gstream.omi17.repl.co/?c=</code> <br><br>
 • It Final URL is --> https://zee.avipatilpro.repl.co/?c=0-9-zeecinemahd <br><br>
 • Run Final URL in Browser You Get Streaming URL <br>
 </h4>
